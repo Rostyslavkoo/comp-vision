@@ -1,0 +1,25 @@
+# Датасети та великі файли
+data/
+*.pth
+*.h5
+*.pt
+
+# Виводи лабораторних (опційно — можна прибрати якщо потрібно здавати вихідні PNG)
+# lab*_output/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Архіви
+*.zip
