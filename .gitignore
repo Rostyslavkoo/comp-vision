@@ -5,7 +5,9 @@ data/
 *.pt
 
 # Виводи лабораторних (опційно — можна прибрати якщо потрібно здавати вихідні PNG)
-# lab*_output/
+lab*_output/
+lab6_augmented_demo/
+lab6_output*/
 
 # Python
 __pycache__/
